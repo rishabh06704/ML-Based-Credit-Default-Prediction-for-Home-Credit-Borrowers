@@ -26,7 +26,7 @@ Results demonstrate the potential for data-driven decision-making in lending, he
 
 ---
 
-##### [Read the paper]() 
+##### [Read the paper](Machine_Learning_Based_Credit_Default_Prediction_for_Home_Credit_Borrowers_2.pdf) 
 
 ##### Status:
 
